@@ -9,7 +9,7 @@
   
   inputs.src-combparser-master.flake = false;
   inputs.src-combparser-master.owner = "PMunch";
-  inputs.src-combparser-master.ref   = "refs/heads/master";
+  inputs.src-combparser-master.ref   = "master";
   inputs.src-combparser-master.repo  = "combparser";
   inputs.src-combparser-master.type  = "github";
   
