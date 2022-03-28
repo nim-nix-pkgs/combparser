@@ -11,7 +11,6 @@
   inputs.src-combparser-master.ref   = "refs/heads/master";
   inputs.src-combparser-master.owner = "PMunch";
   inputs.src-combparser-master.repo  = "combparser";
-  inputs.src-combparser-master.dir   = "";
   inputs.src-combparser-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
